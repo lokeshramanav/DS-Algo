@@ -1,0 +1,11 @@
+Last In --> First Out 
+the last element added is the first element to pop out / removed
+
+
+Browsers back button
+
+Functions 
+    - push --> add element into the stack
+    - pop  --> remove the element out from the stack (last in first out)
+    - peek --> displaying the top element 
+    - length/size 
