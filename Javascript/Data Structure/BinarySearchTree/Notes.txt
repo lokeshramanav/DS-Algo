@@ -1,0 +1,23 @@
+Node 
+    - child nodes 
+    - data 
+
+Root node 
+    - no parent node 
+
+Leaf Node
+    - No child nodes end of the tree 
+
+Binary Search Tree
+    - two branches for every node left child node , right child node 
+    - left child node is less than parent node 
+    - right child node is greater than parent node 
+
+Functions 
+    - addToBst 
+    - findMin
+    - findMax
+    - find --> if the element is present in the tree or not 
+    - remove --> removes the element from the list 
+            1. check for empty tree 
+            2. node has not remove children just delete the node and return null
