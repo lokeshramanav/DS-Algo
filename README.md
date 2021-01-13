@@ -13,3 +13,12 @@
 6. Big O notation for the Data structure and algorithm (space and time complexity)
 7. Pros and cons for the data structure and algorithm
 8. Real world use case of the data structure and algorithm
+
+
+WHILE ORGANIZING THE NOTES 
+    - NOTES.MD
+        - DATA STRUCTURE / ALGORITHM VISUALIZATION (CASE SCENARIOS)
+        - EXPLANATION OF THE VISUALIZATION
+        - ANALYSIS OF THE DATA STRUCTURE / ALGORITHM (BIG O)
+        - PROS/CONS USE CASES OF THE DATA STRUCTURE / ALGORITHMS
+    - <DS/ALG0>.JS

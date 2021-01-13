@@ -1,0 +1,19 @@
+DATA TYPES IN JAVASCRIPT & THEIR VALUE IN MEMORY 
+    - System defined data types / primitive data types
+    - User defined data types
+
+Data structure is a particular way of sorting and organizing data in a computer so that it can be used efficiently
+Data structure is a special format for organizing and sorting data
+
+Linear Data Structure     - Linked Lists , Stacks , Queues , accessed in sequential order 
+Non-Linear Data Structure - trees graphs 
+
+Analysis of algorithms 
+    Best Case 
+    Worst Case 
+    Average Case 
+
+Asymptotic Notation
+    Big O Notation
+    Omega Notation
+    Theta O Notation

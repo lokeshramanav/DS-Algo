@@ -21,3 +21,21 @@ Functions
     - remove --> removes the element from the list 
             1. check for empty tree 
             2. node has not remove children just delete the node and return null
+    REMOVE NODE LOGIC
+        Case 1: no child node --> directly remove the node --> remove link from parent node 
+        Case 2: on chile node left/ right child node --> add the child node to parent node 
+        Case 3: when node has both child nodes --> 1. Find the minimum of the right subtree of node --> replace in the deleted node --> delete the duplicate
+                                                   2. maximum in left subtree 
+
+Binary Search Tree Traversal & Height 
+
+    - Height --> distance between root node to any given leaf node 
+    - minimum Height --> root node to first leaf node without two children
+    - maximum Height --> root node to bottom most node 
+    - isBalanced     --> difference between min and max height is 1
+
+    - Tree Traversal
+    - in order
+    - pre order 
+    - post order 
+    - level order 
