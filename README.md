@@ -22,3 +22,23 @@ WHILE ORGANIZING THE NOTES
         - ANALYSIS OF THE DATA STRUCTURE / ALGORITHM (BIG O)
         - PROS/CONS USE CASES OF THE DATA STRUCTURE / ALGORITHMS
     - <DS/ALG0>.JS
+
+
+#List of Data Structures 
+ - Stacks
+ - Sets 
+ - Queue
+ - Priority Queue
+ - Binary Search Tree
+ - Hash tables 
+ - Linked List 
+ - Trie
+ - Heap
+ - Graphs
+ - Double linked list
+ - AVL Tree
+ - Red Black Tree
+ - Segment Tree
+ - Fenwick Tree
+ - Disjoint set 
+ - Bloom Filter
